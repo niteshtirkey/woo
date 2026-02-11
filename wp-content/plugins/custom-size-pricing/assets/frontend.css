@@ -1,0 +1,31 @@
+.csp-custom-fields {
+    margin: 20px 0;
+    padding: 20px;
+    border: 1px solid #ddd;
+    background: #f9f9f9;
+}
+
+.csp-field {
+    margin-bottom: 15px;
+}
+
+.csp-field label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.csp-field input {
+    width: 100%;
+    max-width: 200px;
+    padding: 8px;
+    border: 1px solid #ddd;
+}
+
+#csp-calculated-price {
+    color: #2c3e50;
+}
+
+#csp-error {
+    font-weight: bold;
+}

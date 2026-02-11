@@ -1,0 +1,26 @@
+.csp-range-row {
+    margin-bottom: 15px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    background: #f9f9f9;
+}
+
+.csp-range-row label {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.csp-range-row input {
+    width: 80px;
+    margin-left: 5px;
+}
+
+#csp-add-range {
+    margin-top: 10px;
+}
+
+.csp-remove-range {
+    background: #dc3232;
+    color: white;
+    border-color: #dc3232;
+}
